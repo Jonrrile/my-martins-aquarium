@@ -1,9 +1,10 @@
 .fishList {
-    background-color: mediumorchid;
+    background-color:blue;
+    border: 2px solid seagreen;
 }
 
 .fish {
-    background-color: mediumvioletred;
+    background-color: whitesmoke;
 }
 
 

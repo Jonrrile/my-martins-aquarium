@@ -1,7 +1,9 @@
 .quoteList {
-    background-color: lightyellow;
+    border: 2px solid seagreen;
 }
 
 .quote {
-    background-color: yellow;
+    background-color: whitesmoke;
+    color: lightcoral;
 }
+

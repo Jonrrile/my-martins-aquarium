@@ -1,6 +1,8 @@
 .tipList {
-    background-color: dodgerblue;
+    background-color: whitesmoke;
     height: 100%;
+    border: 2px solid seagreen;
+    color: coral;
 }
 
 .tip {

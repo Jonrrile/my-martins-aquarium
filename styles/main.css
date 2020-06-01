@@ -19,6 +19,8 @@
     display: flex;
     flex-direction: column;
     flex: 3.5;
+    flex-wrap: wrap;
+
 }
 
 .underTheBanner__right {
