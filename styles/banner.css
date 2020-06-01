@@ -1,12 +1,11 @@
 .banner {
-    background-color: darkgoldenrod;
+    background-image: url(https://media.istockphoto.com/photos/biggest-aquarium-in-the-world-atlanta-georgia-picture-id153782658?b=1&k=6&m=153782658&s=170667a&w=0&h=Mj9PGvEryakz6nY-ndbW5OVNTpMeVBGFaYs41TB4xmc=);
 }
 
 .banner__logo {
     width: max-content;
     height: 10px;
 }
-
 .banner__title {
     color: whitesmoke;
 }

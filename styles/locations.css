@@ -1,13 +1,14 @@
-.locationList {
-    background-color: mediumaquamarine;
-}
-
 .location {
-    background-color: mediumseagreen;
+    background-color: #0816d8;
+    color:  #0816d8;
 }
 
 
 .location__picture {
     max-width: 15rem;
     max-height: 15rem;
+}
+
+.location__details {
+    background-color: whitesmoke;
 }

@@ -1,9 +1,8 @@
 .quoteList {
-    border: 2px solid seagreen;
+    border: 2px solid whitesmoke;
 }
 
 .quote {
-    background-color: whitesmoke;
-    color: lightcoral;
+    background-color: #0816d8;
+    color: whitesmoke;
 }
-

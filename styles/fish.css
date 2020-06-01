@@ -1,14 +1,16 @@
-.fishList {
-    background-color:blue;
-    border: 2px solid seagreen;
-}
+
 
 .fish {
-    background-color: whitesmoke;
+    background-color: #0816d8;
+    color:  #0816d8;
 }
 
 
 .fish__picture {
     max-width: 15rem;
     max-height: 15rem;
+}
+
+.fish__details {
+    background-color: whitesmoke;
 }
