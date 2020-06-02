@@ -1,2 +1,4 @@
 fishList();
 locationList();
+tipList();
+quoteList();

@@ -11,5 +11,5 @@ const tipConverter = (tipObject) => {
     </section>`
 
     return tipHTMLRepresentation
-
+    
 }
