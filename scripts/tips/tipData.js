@@ -1,10 +1,16 @@
-const tipCollection = [
-{
-    details: "Dont forget to bring a towel"
-},
+let tipCollection = []
 
-{
-    details: "The same fish never bites twice"
+const getTipData = () => {
+    return fetch("http://localhost:8088/tips").then(
+        (httpResponse) => {
+            return httpResponse.json()
+        }
+    )
+        .then(
+            (arrayOfTips) => {
+                // 100 percent sure the data is back
+                tipCollection = arrayOfTips
+            }
+        )
 }
 
-]
