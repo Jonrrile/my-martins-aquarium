@@ -1,4 +1,7 @@
-fishList();
-locationList();
-tipList();
-quoteList();
+getFishData().then(
+    () => {
+        console.log("inside", fishCollection)
+        fishList()
+    }
+)
+console.log("outside", fishCollection)
