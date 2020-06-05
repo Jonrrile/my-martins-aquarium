@@ -45,7 +45,16 @@
         "food": "Pufferfish",
         "picture": "https://cdn.pixabay.com/photo/2013/11/01/11/13/dolphin-203875__340.jpg"
 
-    }
+    },
+
+    {
+        "species": "Trigger Fish",
+        "length": 12,
+        "location": "Bay of Bengal",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Reef_trigger_fish._%2811111536093%29.jpg/275px-Reef_trigger_fish._%2811111536093%29.jpg",
+        "food": "Baby squid",
+        "name": "Bubbles"
+      }
 ],
     "locations": [
     {
@@ -78,5 +87,18 @@
     
 ],
 
-    "quotes": []
+    "quotes": [
+        {
+            "details": "It's over 9000!!"
+        },
+        
+        {
+            "details":  "You either die a hero, or live long enough to see yourself become the villian."
+        },
+    
+        {
+            "details": "Somebody behind you while you are fishing is as bad as someone looking over your shoulder while you write a letter to your girl."
+        }
+    
+    ]
 }

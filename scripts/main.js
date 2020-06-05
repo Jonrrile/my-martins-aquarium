@@ -21,3 +21,6 @@ getTipData().then(
     }
 )
 console.log("outside", tipCollection)
+
+
+quoteList();
