@@ -16,6 +16,19 @@ fishTypeDropdown.addEventListener("change", changeEvent => {
         clearFishList()
         displayTheHolyOnes()
     }
+     else if (userChoice === "soldier") {
+        clearFishList()
+        displaySoldier()
+
+    }
+    else if (userChoice === "plebs") {
+        clearFishList()
+        displayPlebs()
+    }
+    else {
+        clearFishList()
+        fishList()
+    }
 })
 
 
